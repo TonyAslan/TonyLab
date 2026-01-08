@@ -1,0 +1,269 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\build\WeComCopy_autogen\mocs_compilation_Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\comsocket.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\source\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\source\wecomwnd.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\source\navpane.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\source\pushbuttonex.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\source\iconhelper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\source\appinit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\source\userdetaildlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\source\basedlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\source\logindlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\source\friendslist.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\source\msgpane.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\source\chattoptoolbar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\source\msgqueue.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\source\contactspane.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\source\weatherpane.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\source\clockpane.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\source\incofontpane.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\source\tipwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\source\catpane.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\source\navigationbar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\source\notificationpane.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\source\component.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\source\popconfirm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\source\slider.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\source\dynamiccard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\source\datamgrpane.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\source\userpane.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\source\boderpane.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\source\userprofiles.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\source\appreciatedlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\source\carouselpane.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\build\WeComCopy_autogen\PNK5WDWK6L\qrc_wecomcopy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\build\WeComCopy_autogen\mocs_compilation_Release.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\build\WeComCopy_autogen\mocs_compilation_MinSizeRel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\build\WeComCopy_autogen\mocs_compilation_RelWithDebInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\include\wecomwnd.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\include\navpane.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\include\pushbuttonex.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\include\iconhelper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\include\appinit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\include\userdetaildlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\include\public.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\include\basedlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\include\logindlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\include\friendslist.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\include\msgpane.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\include\chattoptoolbar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\include\msgqueue.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\include\contactspane.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\include\weatherpane.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\include\clockpane.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\include\incofontpane.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\include\tipwidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\include\catpane.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\include\navigationbar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\include\notificationpane.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\include\component.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\include\popconfirm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\include\slider.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\include\dynamiccard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\include\datamgrpane.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\include\userpane.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\include\boderpane.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\include\userprofiles.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\include\appreciatedlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\include\carouselpane.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\build\WeComCopy_autogen\include_Debug\ui\ui_wecomwnd.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\build\WeComCopy_autogen\include_Debug\ui\ui_userprofiles.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\build\WeComCopy_autogen\include_Release\ui\ui_wecomwnd.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\build\WeComCopy_autogen\include_Release\ui\ui_userprofiles.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\build\WeComCopy_autogen\include_MinSizeRel\ui\ui_wecomwnd.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\build\WeComCopy_autogen\include_MinSizeRel\ui\ui_userprofiles.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\build\WeComCopy_autogen\include_RelWithDebInfo\ui\ui_wecomwnd.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\build\WeComCopy_autogen\include_RelWithDebInfo\ui\ui_userprofiles.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\build\CMakeFiles\3430914b1a9b068b1beb5d7a83099fd4\autouic_(CONFIG).stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\build\CMakeFiles\0d77159ce9aea744d3105eb190bd6d61\qrc_wecomcopy.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\ui\wecomwnd.ui" />
+    <None Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\ui\userprofiles.ui" />
+    <None Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\res\wecomcopy.qrc" />
+    <None Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\build\WeComCopy_autogen\autouic_Debug.stamp" />
+    <None Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\build\WeComCopy_autogen\autouic_Release.stamp" />
+    <None Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\build\WeComCopy_autogen\autouic_MinSizeRel.stamp" />
+    <None Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\build\WeComCopy_autogen\autouic_RelWithDebInfo.stamp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\res\WeComCopy.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{69E81DB3-AF9C-3ED1-9E3B-82863884414C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{7B8BD282-2B5F-3103-BC59-91B1EABEB067}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3F44487B-BA3C-30F4-8F83-4A77C5896CFD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
