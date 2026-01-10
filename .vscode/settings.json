@@ -1,0 +1,67 @@
+{
+  // =========================
+  // Qt Core
+  // =========================
+
+  "qt-core.qtInstallationRoot": "C:/Qt/Qt5.14.2",
+
+  "qt-core.additionalQtPaths": [
+    "C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/bin/qmake.exe",
+    "C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/bin/qtpaths.exe"
+  ],
+
+  "qt-core.defaultProjectDirectory": "C:/Users/PYF/Desktop/TonyLab",
+
+  "qt-core.doNotAskForDefaultQtInstallationRoot": true,
+  "qt-core.doNotAskForVCPKG": true,
+  "qt-core.openOnlineDocumentationInExternalBrowser": true,
+
+  // =========================
+  // Qt C++ (CMake)
+  // =========================
+
+  "qt-cpp.doNotAskForCMakePath": false,
+  "qt-cpp.doNotShowCMakePresetWarning": true,
+  "qt-cpp.doNotWarnMissingSourceDir": false,
+
+  // =========================
+  // Qt QML
+  // =========================
+
+  "qt-qml.qmlls.enabled": false,
+
+  // =========================
+  // Qt UI / Designer
+  // =========================
+
+  "qt-ui.customWidgetsDesignerExePath": "C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/bin/designer.exe",
+
+  // =========================
+  // Qt Tools
+  // =========================
+
+  "qttools.searchMode": "cmake",
+
+  "qttools.extraSearchDirectories": [
+    "C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/bin"
+  ],
+
+  "qttools.creator": "",
+
+  "qttools.injectNatvisFile": true,
+  "qttools.useExternalBrowser": true,
+  "qttools.loglevel": "info",
+
+  // =========================
+  // Qt Configure（Windows / MSVC）
+  // =========================
+
+  "qtConfigure.qtDir": "C:/Qt/Qt5.14.2/5.14.2/msvc2017_64",
+
+  "qtConfigure.qtKitDir": "C:/Qt/Qt5.14.2/5.14.2/msvc2017_64",
+
+  "qtConfigure.mingwPath": "",
+
+  "qtConfigure.vcvarsallPath": "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Auxiliary/Build/vcvarsall.bat",
+  "cmake.sourceDirectory": "D:/TonyLab/TonyLabClient"
+}

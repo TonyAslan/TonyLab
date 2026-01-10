@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "name": "Win64",
+            "compilerPath": "C:\\Qt\\Qt5.14.2\\Tools\\mingw730_64\\bin\\g++",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/include/**",
+                "${default}"
+            ],
+            "defines": [
+                "_WIN32",
+                "QT_CORE_LIB",
+                "QT_WIDGETS_LIB",
+                "QT_GUI_LIB"
+            ],
+            "browse": {
+                "path": [
+                    "${workspaceFolder}/TonyLabClient/**",
+                    "C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/include"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            }
+        }
+    ],
+    "version": 4
+}

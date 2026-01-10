@@ -24,9 +24,9 @@ events:
       The output was:
       0
       适用于 .NET Framework MSBuild 版本 17.9.5+33de0b227
-      生成启动时间为 2026/1/7 16:39:50。
+      生成启动时间为 2026/1/10 12:00:00。
       
-      节点 1 上的项目“C:\\Users\\PYF\\Desktop\\TonyLab\\TonyLabClient\\build\\CMakeFiles\\3.28.1\\CompilerIdCXX\\CompilerIdCXX.vcxproj”(默认目标)。
+      节点 1 上的项目“D:\\TonyLab\\TonyLabClient\\build\\CMakeFiles\\3.28.1\\CompilerIdCXX\\CompilerIdCXX.vcxproj”(默认目标)。
       PrepareForBuild:
         正在创建目录“Debug\\”。
         已启用结构化输出。编译器诊断的格式设置将反映错误层次结构。有关详细信息，请参阅 https://aka.ms/cpp/structured-output。
@@ -39,7 +39,7 @@ events:
         CMakeCXXCompilerId.cpp
       Link:
         C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:".\\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\\CompilerIdCXX.lib" /MACHINE:X64 Debug\\CMakeCXXCompilerId.obj
-        CompilerIdCXX.vcxproj -> C:\\Users\\PYF\\Desktop\\TonyLab\\TonyLabClient\\build\\CMakeFiles\\3.28.1\\CompilerIdCXX\\CompilerIdCXX.exe
+        CompilerIdCXX.vcxproj -> D:\\TonyLab\\TonyLabClient\\build\\CMakeFiles\\3.28.1\\CompilerIdCXX\\CompilerIdCXX.exe
       PostBuildEvent:
         for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
         :VCEnd
@@ -47,13 +47,13 @@ events:
       FinalizeBuildStatus:
         正在删除文件“Debug\\CompilerIdCXX.tlog\\unsuccessfulbuild”。
         正在对“Debug\\CompilerIdCXX.tlog\\CompilerIdCXX.lastbuildstate”执行 Touch 任务。
-      已完成生成项目“C:\\Users\\PYF\\Desktop\\TonyLab\\TonyLabClient\\build\\CMakeFiles\\3.28.1\\CompilerIdCXX\\CompilerIdCXX.vcxproj”(默认目标)的操作。
+      已完成生成项目“D:\\TonyLab\\TonyLabClient\\build\\CMakeFiles\\3.28.1\\CompilerIdCXX\\CompilerIdCXX.vcxproj”(默认目标)的操作。
       
       已成功生成。
           0 个警告
           0 个错误
       
-      已用时间 00:00:03.63
+      已用时间 00:00:00.78
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -61,7 +61,7 @@ events:
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
       
       The CXX compiler identification is MSVC, found in:
-        C:/Users/PYF/Desktop/TonyLab/TonyLabClient/build/CMakeFiles/3.28.1/CompilerIdCXX/CompilerIdCXX.exe
+        D:/TonyLab/TonyLabClient/build/CMakeFiles/3.28.1/CompilerIdCXX/CompilerIdCXX.exe
       
   -
     kind: "try_compile-v1"
@@ -72,8 +72,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/PYF/Desktop/TonyLab/TonyLabClient/build/CMakeFiles/CMakeScratch/TryCompile-bw1hpd"
-      binary: "C:/Users/PYF/Desktop/TonyLab/TonyLabClient/build/CMakeFiles/CMakeScratch/TryCompile-bw1hpd"
+      source: "D:/TonyLab/TonyLabClient/build/CMakeFiles/CMakeScratch/TryCompile-sthdfz"
+      binary: "D:/TonyLab/TonyLabClient/build/CMakeFiles/CMakeScratch/TryCompile-sthdfz"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -82,40 +82,40 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/PYF/Desktop/TonyLab/TonyLabClient/build/CMakeFiles/CMakeScratch/TryCompile-bw1hpd'
+        Change Dir: 'D:/TonyLab/TonyLabClient/build/CMakeFiles/CMakeScratch/TryCompile-sthdfz'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_c957e.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_ccc8f.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         适用于 .NET Framework MSBuild 版本 17.9.5+33de0b227
-        生成启动时间为 2026/1/7 16:39:54。
+        生成启动时间为 2026/1/10 12:00:01。
         
-        节点 1 上的项目“C:\\Users\\PYF\\Desktop\\TonyLab\\TonyLabClient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bw1hpd\\cmTC_c957e.vcxproj”(默认目标)。
+        节点 1 上的项目“D:\\TonyLab\\TonyLabClient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-sthdfz\\cmTC_ccc8f.vcxproj”(默认目标)。
         PrepareForBuild:
-          正在创建目录“cmTC_c957e.dir\\Debug\\”。
+          正在创建目录“cmTC_ccc8f.dir\\Debug\\”。
           已启用结构化输出。编译器诊断的格式设置将反映错误层次结构。有关详细信息，请参阅 https://aka.ms/cpp/structured-output。
-          正在创建目录“C:\\Users\\PYF\\Desktop\\TonyLab\\TonyLabClient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bw1hpd\\Debug\\”。
-          正在创建目录“cmTC_c957e.dir\\Debug\\cmTC_c957e.tlog\\”。
+          正在创建目录“D:\\TonyLab\\TonyLabClient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-sthdfz\\Debug\\”。
+          正在创建目录“cmTC_ccc8f.dir\\Debug\\cmTC_ccc8f.tlog\\”。
         InitializeBuildStatus:
-          正在创建“cmTC_c957e.dir\\Debug\\cmTC_c957e.tlog\\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
-          正在对“cmTC_c957e.dir\\Debug\\cmTC_c957e.tlog\\unsuccessfulbuild”执行 Touch 任务。
+          正在创建“cmTC_ccc8f.dir\\Debug\\cmTC_ccc8f.tlog\\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+          正在对“cmTC_ccc8f.dir\\Debug\\cmTC_ccc8f.tlog\\unsuccessfulbuild”执行 Touch 任务。
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_c957e.dir\\Debug\\\\" /Fd"cmTC_c957e.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TP /errorReport:queue "C:\\ST\\STM32CubeCLT_1.20.0\\CMake\\share\\cmake-3.28\\Modules\\CMakeCXXCompilerABI.cpp"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_ccc8f.dir\\Debug\\\\" /Fd"cmTC_ccc8f.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TP /errorReport:queue "C:\\ST\\STM32CubeCLT_1.20.0\\CMake\\share\\cmake-3.28\\Modules\\CMakeCXXCompilerABI.cpp"
           用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.39.33522 版
           版权所有(C) Microsoft Corporation。保留所有权利。
-          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_c957e.dir\\Debug\\\\" /Fd"cmTC_c957e.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TP /errorReport:queue "C:\\ST\\STM32CubeCLT_1.20.0\\CMake\\share\\cmake-3.28\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_ccc8f.dir\\Debug\\\\" /Fd"cmTC_ccc8f.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TP /errorReport:queue "C:\\ST\\STM32CubeCLT_1.20.0\\CMake\\share\\cmake-3.28\\Modules\\CMakeCXXCompilerABI.cpp"
           CMakeCXXCompilerABI.cpp
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\PYF\\Desktop\\TonyLab\\TonyLabClient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bw1hpd\\Debug\\cmTC_c957e.exe" /INCREMENTAL /ILK:"cmTC_c957e.dir\\Debug\\cmTC_c957e.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/PYF/Desktop/TonyLab/TonyLabClient/build/CMakeFiles/CMakeScratch/TryCompile-bw1hpd/Debug/cmTC_c957e.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/PYF/Desktop/TonyLab/TonyLabClient/build/CMakeFiles/CMakeScratch/TryCompile-bw1hpd/Debug/cmTC_c957e.lib" /MACHINE:X64  /machine:x64 cmTC_c957e.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_c957e.vcxproj -> C:\\Users\\PYF\\Desktop\\TonyLab\\TonyLabClient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bw1hpd\\Debug\\cmTC_c957e.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\TonyLab\\TonyLabClient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-sthdfz\\Debug\\cmTC_ccc8f.exe" /INCREMENTAL /ILK:"cmTC_ccc8f.dir\\Debug\\cmTC_ccc8f.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/TonyLab/TonyLabClient/build/CMakeFiles/CMakeScratch/TryCompile-sthdfz/Debug/cmTC_ccc8f.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/TonyLab/TonyLabClient/build/CMakeFiles/CMakeScratch/TryCompile-sthdfz/Debug/cmTC_ccc8f.lib" /MACHINE:X64  /machine:x64 cmTC_ccc8f.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_ccc8f.vcxproj -> D:\\TonyLab\\TonyLabClient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-sthdfz\\Debug\\cmTC_ccc8f.exe
         FinalizeBuildStatus:
-          正在删除文件“cmTC_c957e.dir\\Debug\\cmTC_c957e.tlog\\unsuccessfulbuild”。
-          正在对“cmTC_c957e.dir\\Debug\\cmTC_c957e.tlog\\cmTC_c957e.lastbuildstate”执行 Touch 任务。
-        已完成生成项目“C:\\Users\\PYF\\Desktop\\TonyLab\\TonyLabClient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bw1hpd\\cmTC_c957e.vcxproj”(默认目标)的操作。
+          正在删除文件“cmTC_ccc8f.dir\\Debug\\cmTC_ccc8f.tlog\\unsuccessfulbuild”。
+          正在对“cmTC_ccc8f.dir\\Debug\\cmTC_ccc8f.tlog\\cmTC_ccc8f.lastbuildstate”执行 Touch 任务。
+        已完成生成项目“D:\\TonyLab\\TonyLabClient\\build\\CMakeFiles\\CMakeScratch\\TryCompile-sthdfz\\cmTC_ccc8f.vcxproj”(默认目标)的操作。
         
         已成功生成。
             0 个警告
             0 个错误
         
-        已用时间 00:00:00.67
+        已用时间 00:00:00.72
         
       exitCode: 0
 ...

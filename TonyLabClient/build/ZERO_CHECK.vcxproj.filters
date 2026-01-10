@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="C:\Users\PYF\Desktop\TonyLab\TonyLabClient\build\CMakeFiles\2f8154aef21d1359e67f542aa8b9ad5a\generate.stamp.rule">
+    <CustomBuild Include="D:\TonyLab\TonyLabClient\build\CMakeFiles\ae11b5810151c3d5bd530bf642aebe30\generate.stamp.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{69E81DB3-AF9C-3ED1-9E3B-82863884414C}</UniqueIdentifier>
+      <UniqueIdentifier>{1B95D700-606A-3A40-8E60-5D1695762C0C}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

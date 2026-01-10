@@ -68,6 +68,8 @@ C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/lib/cmake/Qt5WebEngineCore/Qt5WebEngineCoreCon
 C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/lib/cmake/Qt5WebEngineCore/Qt5WebEngineCoreConfigVersion.cmake
 C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/lib/cmake/Qt5WebEngineWidgets/Qt5WebEngineWidgetsConfig.cmake
 C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/lib/cmake/Qt5WebEngineWidgets/Qt5WebEngineWidgetsConfigVersion.cmake
+C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/lib/cmake/Qt5WebSockets/Qt5WebSocketsConfig.cmake
+C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/lib/cmake/Qt5WebSockets/Qt5WebSocketsConfigVersion.cmake
 C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake
 C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake
 C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake
@@ -90,8 +92,8 @@ C:/ST/STM32CubeCLT_1.20.0/CMake/share/cmake-3.28/Modules/Platform/Windows-MSVC-C
 C:/ST/STM32CubeCLT_1.20.0/CMake/share/cmake-3.28/Modules/Platform/Windows-MSVC.cmake
 C:/ST/STM32CubeCLT_1.20.0/CMake/share/cmake-3.28/Modules/Platform/Windows.cmake
 C:/ST/STM32CubeCLT_1.20.0/CMake/share/cmake-3.28/Modules/Platform/WindowsPaths.cmake
-C:/Users/PYF/Desktop/TonyLab/TonyLabClient/CMakeLists.txt
-C:/Users/PYF/Desktop/TonyLab/TonyLabClient/build/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake
-C:/Users/PYF/Desktop/TonyLab/TonyLabClient/build/CMakeFiles/3.28.1/CMakeRCCompiler.cmake
-C:/Users/PYF/Desktop/TonyLab/TonyLabClient/build/CMakeFiles/3.28.1/CMakeSystem.cmake
-C:/Users/PYF/Desktop/TonyLab/TonyLabClient/res/wecomcopy.qrc
+D:/TonyLab/TonyLabClient/CMakeLists.txt
+D:/TonyLab/TonyLabClient/build/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake
+D:/TonyLab/TonyLabClient/build/CMakeFiles/3.28.1/CMakeRCCompiler.cmake
+D:/TonyLab/TonyLabClient/build/CMakeFiles/3.28.1/CMakeSystem.cmake
+D:/TonyLab/TonyLabClient/resources/wecomcopy.qrc

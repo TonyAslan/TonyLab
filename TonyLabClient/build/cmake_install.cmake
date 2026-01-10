@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/PYF/Desktop/TonyLab/TonyLabClient
+# Install script for directory: D:/TonyLab/TonyLabClient
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/WeComCopy")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/TonyLabClient")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/PYF/Desktop/TonyLab/TonyLabClient/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/TonyLab/TonyLabClient/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Qt5.14.2-5.14.2-android",
+    "isTrusted": true,
+    "preferredGenerator": {
+      "name": "Ninja"
+    },
+    "cmakeSettings": {
+      "QT_QML_GENERATE_QMLLS_INI": "ON",
+      "CMAKE_CXX_FLAGS_DEBUG_INIT": "-DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG",
+      "CMAKE_CXX_FLAGS_RELWITHDEBINFO_INIT": "-DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG"
+    },
+    "environmentVariables": {
+      "VSCODE_QT_INSTALLATION": "C:\\Qt\\Qt5.14.2\\5.14.2\\android",
+      "PATH": "C:\\Qt\\Qt5.14.2\\5.14.2\\android\\bin;${env:PATH}"
+    }
+  },
+  {
+    "name": "Qt5.14.2-5.14.2-mingw73_32",
+    "isTrusted": true,
+    "preferredGenerator": {
+      "name": "Ninja"
+    },
+    "cmakeSettings": {
+      "QT_QML_GENERATE_QMLLS_INI": "ON",
+      "CMAKE_CXX_FLAGS_DEBUG_INIT": "-DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG",
+      "CMAKE_CXX_FLAGS_RELWITHDEBINFO_INIT": "-DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG"
+    },
+    "environmentVariables": {
+      "VSCODE_QT_INSTALLATION": "C:\\Qt\\Qt5.14.2\\5.14.2\\mingw73_32",
+      "PATH": "C:\\Qt\\Qt5.14.2\\5.14.2\\mingw73_32\\bin;${env:PATH};C:\\Qt\\Qt5.14.2\\Tools\\mingw730_64\\bin"
+    },
+    "compilers": {
+      "C": "C:\\Qt\\Qt5.14.2\\Tools\\mingw730_64\\bin\\gcc.exe",
+      "CXX": "C:\\Qt\\Qt5.14.2\\Tools\\mingw730_64\\bin\\g++.exe"
+    }
+  },
+  {
+    "name": "Qt5.14.2-5.14.2-mingw73_64",
+    "isTrusted": true,
+    "preferredGenerator": {
+      "name": "Ninja"
+    },
+    "cmakeSettings": {
+      "QT_QML_GENERATE_QMLLS_INI": "ON",
+      "CMAKE_CXX_FLAGS_DEBUG_INIT": "-DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG",
+      "CMAKE_CXX_FLAGS_RELWITHDEBINFO_INIT": "-DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG"
+    },
+    "environmentVariables": {
+      "VSCODE_QT_INSTALLATION": "C:\\Qt\\Qt5.14.2\\5.14.2\\mingw73_64",
+      "PATH": "C:\\Qt\\Qt5.14.2\\5.14.2\\mingw73_64\\bin;${env:PATH};C:\\Qt\\Qt5.14.2\\Tools\\mingw730_64\\bin"
+    },
+    "compilers": {
+      "C": "C:\\Qt\\Qt5.14.2\\Tools\\mingw730_64\\bin\\gcc.exe",
+      "CXX": "C:\\Qt\\Qt5.14.2\\Tools\\mingw730_64\\bin\\g++.exe"
+    }
+  },
+  {
+    "name": "Qt5.14.2-5.14.2-msvc2017_VSCommunity_2022_Release_x86",
+    "visualStudio": "1d469f5a",
+    "visualStudioArchitecture": "x86",
+    "isTrusted": true,
+    "preferredGenerator": {
+      "name": "Ninja"
+    },
+    "cmakeSettings": {
+      "QT_QML_GENERATE_QMLLS_INI": "ON",
+      "CMAKE_CXX_FLAGS_DEBUG_INIT": "-DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG",
+      "CMAKE_CXX_FLAGS_RELWITHDEBINFO_INIT": "-DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG"
+    },
+    "environmentVariables": {
+      "VSCODE_QT_INSTALLATION": "C:\\Qt\\Qt5.14.2\\5.14.2\\msvc2017",
+      "PATH": "C:\\Qt\\Qt5.14.2\\5.14.2\\msvc2017\\bin;${env:PATH}"
+    }
+  },
+  {
+    "name": "Qt5.14.2-5.14.2-msvc2017_VSProfessional_2017_Release_x86",
+    "visualStudio": "3614b183",
+    "visualStudioArchitecture": "x86",
+    "isTrusted": true,
+    "preferredGenerator": {
+      "name": "Ninja"
+    },
+    "cmakeSettings": {
+      "QT_QML_GENERATE_QMLLS_INI": "ON",
+      "CMAKE_CXX_FLAGS_DEBUG_INIT": "-DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG",
+      "CMAKE_CXX_FLAGS_RELWITHDEBINFO_INIT": "-DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG"
+    },
+    "environmentVariables": {
+      "VSCODE_QT_INSTALLATION": "C:\\Qt\\Qt5.14.2\\5.14.2\\msvc2017",
+      "PATH": "C:\\Qt\\Qt5.14.2\\5.14.2\\msvc2017\\bin;${env:PATH}"
+    }
+  },
+  {
+    "name": "Qt5.14.2-5.14.2-msvc2017_64_VSCommunity_2022_Release_amd64",
+    "visualStudio": "1d469f5a",
+    "visualStudioArchitecture": "x64",
+    "isTrusted": true,
+    "preferredGenerator": {
+      "name": "Ninja"
+    },
+    "cmakeSettings": {
+      "QT_QML_GENERATE_QMLLS_INI": "ON",
+      "CMAKE_CXX_FLAGS_DEBUG_INIT": "-DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG",
+      "CMAKE_CXX_FLAGS_RELWITHDEBINFO_INIT": "-DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG"
+    },
+    "environmentVariables": {
+      "VSCODE_QT_INSTALLATION": "C:\\Qt\\Qt5.14.2\\5.14.2\\msvc2017_64",
+      "PATH": "C:\\Qt\\Qt5.14.2\\5.14.2\\msvc2017_64\\bin;${env:PATH}"
+    }
+  },
+  {
+    "name": "Qt5.14.2-5.14.2-msvc2017_64_VSProfessional_2017_Release_amd64",
+    "visualStudio": "3614b183",
+    "visualStudioArchitecture": "x64",
+    "isTrusted": true,
+    "preferredGenerator": {
+      "name": "Ninja"
+    },
+    "cmakeSettings": {
+      "QT_QML_GENERATE_QMLLS_INI": "ON",
+      "CMAKE_CXX_FLAGS_DEBUG_INIT": "-DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG",
+      "CMAKE_CXX_FLAGS_RELWITHDEBINFO_INIT": "-DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG"
+    },
+    "environmentVariables": {
+      "VSCODE_QT_INSTALLATION": "C:\\Qt\\Qt5.14.2\\5.14.2\\msvc2017_64",
+      "PATH": "C:\\Qt\\Qt5.14.2\\5.14.2\\msvc2017_64\\bin;${env:PATH}"
+    }
+  },
+  {
+    "name": "Qt-5.14.2-win32-msvc_VSCommunity_2022_Release_amd64",
+    "visualStudio": "1d469f5a",
+    "visualStudioArchitecture": "x64",
+    "isTrusted": true,
+    "preferredGenerator": {
+      "name": "Ninja"
+    },
+    "cmakeSettings": {
+      "QT_QML_GENERATE_QMLLS_INI": "ON",
+      "CMAKE_CXX_FLAGS_DEBUG_INIT": "-DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG",
+      "CMAKE_CXX_FLAGS_RELWITHDEBINFO_INIT": "-DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG"
+    },
+    "environmentVariables": {
+      "VSCODE_QT_QTPATHS_EXE": "C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/bin/qmake.exe",
+      "PATH": "C:/Qt/Qt5.14.2/5.14.2/msvc2017_64;C:/Qt/Qt5.14.2/Docs/Qt-5.14.2;C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/include;C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/lib;C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/bin;C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/tests;C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/plugins;C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/imports;C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/qml;C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/translations;C:/Qt/Qt5.14.2/Examples/Qt-5.14.2;${env:PATH}"
+    }
+  },
+  {
+    "name": "Qt-5.14.2-win32-msvc_VSProfessional_2017_Release_amd64",
+    "visualStudio": "3614b183",
+    "visualStudioArchitecture": "x64",
+    "isTrusted": true,
+    "preferredGenerator": {
+      "name": "Ninja"
+    },
+    "cmakeSettings": {
+      "QT_QML_GENERATE_QMLLS_INI": "ON",
+      "CMAKE_CXX_FLAGS_DEBUG_INIT": "-DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG",
+      "CMAKE_CXX_FLAGS_RELWITHDEBINFO_INIT": "-DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG"
+    },
+    "environmentVariables": {
+      "VSCODE_QT_QTPATHS_EXE": "C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/bin/qmake.exe",
+      "PATH": "C:/Qt/Qt5.14.2/5.14.2/msvc2017_64;C:/Qt/Qt5.14.2/Docs/Qt-5.14.2;C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/include;C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/lib;C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/bin;C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/tests;C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/plugins;C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/imports;C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/qml;C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/translations;C:/Qt/Qt5.14.2/Examples/Qt-5.14.2;${env:PATH}"
+    }
+  },
+  {
+    "name": "Qt-5.14.2-win32-msvc_VSCommunity_2022_Release_amd64",
+    "visualStudio": "1d469f5a",
+    "visualStudioArchitecture": "x64",
+    "isTrusted": true,
+    "preferredGenerator": {
+      "name": "Ninja"
+    },
+    "cmakeSettings": {
+      "QT_QML_GENERATE_QMLLS_INI": "ON",
+      "CMAKE_CXX_FLAGS_DEBUG_INIT": "-DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG",
+      "CMAKE_CXX_FLAGS_RELWITHDEBINFO_INIT": "-DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG"
+    },
+    "environmentVariables": {
+      "VSCODE_QT_QTPATHS_EXE": "C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/bin/qtpaths.exe",
+      "PATH": "C:/Qt/Qt5.14.2/5.14.2/msvc2017_64;C:/Qt/Qt5.14.2/Docs/Qt-5.14.2;C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/include;C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/lib;C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/bin;C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/tests;C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/plugins;C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/imports;C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/qml;C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/translations;C:/Qt/Qt5.14.2/Examples/Qt-5.14.2;${env:PATH}"
+    }
+  },
+  {
+    "name": "Qt-5.14.2-win32-msvc_VSProfessional_2017_Release_amd64",
+    "visualStudio": "3614b183",
+    "visualStudioArchitecture": "x64",
+    "isTrusted": true,
+    "preferredGenerator": {
+      "name": "Ninja"
+    },
+    "cmakeSettings": {
+      "QT_QML_GENERATE_QMLLS_INI": "ON",
+      "CMAKE_CXX_FLAGS_DEBUG_INIT": "-DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG",
+      "CMAKE_CXX_FLAGS_RELWITHDEBINFO_INIT": "-DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG"
+    },
+    "environmentVariables": {
+      "VSCODE_QT_QTPATHS_EXE": "C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/bin/qtpaths.exe",
+      "PATH": "C:/Qt/Qt5.14.2/5.14.2/msvc2017_64;C:/Qt/Qt5.14.2/Docs/Qt-5.14.2;C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/include;C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/lib;C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/bin;C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/tests;C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/plugins;C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/imports;C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/qml;C:/Qt/Qt5.14.2/5.14.2/msvc2017_64/translations;C:/Qt/Qt5.14.2/Examples/Qt-5.14.2;${env:PATH}"
+    }
+  }
+]
